@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EditText_view</string>
+    <string name="name">Enter the Name</string>
+    <string name="password_0_9">Enter the Password</string>
+    <string name="e_mail">Enter the E-Mail</string>
+   <string name="contact_number">Enter the Moblie No</string>
+    <string name="submit">Submit</string>
+    <string name="country">Enter the country</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>USA</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Egypt</item>
+        <item>Indonesia</item>
+        <item>UK</item>
+        <item>Germany</item>
+    </string-array>
+</resources>
